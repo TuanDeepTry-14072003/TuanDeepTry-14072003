@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 𝐂𝐨̂𝐧𝐠 𝐍𝐠𝐡𝐞̣̂ 𝐕𝐚̀ 𝐂𝐨̂𝐧𝐠 𝐂𝐮̣ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -48,7 +48,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 𝐓𝐡𝐨̂́𝐧𝐠 𝐊𝐞̂ 𝐆𝐢𝐭𝐇𝐮𝐛 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -61,7 +61,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">🌐 𝐌𝐚̣𝐧𝐠 𝐗𝐚̃ 𝐇𝐨̣̂𝐢 🌐</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -87,7 +87,7 @@
 
 <br>
 
-<h2 align="center">📖 My current job information 📖</h2>
+<h2 align="center">📖 𝐂𝐨̂𝐧𝐠 𝐕𝐢𝐞̣̂𝐜 𝐇𝐢𝐞̣̂𝐧 𝐓𝐚̣𝐢 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/4pign-QyACY" target="_blank">
@@ -108,7 +108,7 @@
 </a>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 𝐌𝐲 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬 𝐐𝐮𝐨𝐭𝐞 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
