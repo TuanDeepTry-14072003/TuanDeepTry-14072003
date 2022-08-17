@@ -65,7 +65,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
+  <a href="https://facebook.com/TuannDzz123" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a>
   <a href="https://facebook.com/TuannDzz123" target="blank">
@@ -101,7 +101,7 @@
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/TuannDzz123" target="_blank">https://www.facebook.com/TuannDzz123</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">kenyrm2250@gmail.com</a></strong>
 </p>
 <a href="https://www.facebook.com/TuannDzz123" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
