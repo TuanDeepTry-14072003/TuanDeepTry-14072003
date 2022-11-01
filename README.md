@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="TuanDz-official" />
 </a>
 
-<h2 align="center">🛠 𝐂𝐨̂𝐧𝐠 𝐍𝐠𝐡𝐞̣̂ 𝐕𝐚̀ 𝐂𝐨̂𝐧𝐠 𝐂𝐮̣ 🛠</h2>
+<h2 align="center">🛠 𝑪𝒐̂𝒏𝒈 𝑵𝒈𝒉𝒆̣̂ 𝑽𝒂̀ 𝑪𝒐̂𝒏𝒈 𝑪𝒖̣ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
