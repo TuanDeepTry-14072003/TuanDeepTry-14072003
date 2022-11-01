@@ -99,7 +99,7 @@
 <p>
   <strong>🔗 Link tải công cụ lấy APPSTATE: <a href="https://github.com/c3cbot/c3c-fbstate" target="_blank">C3C-FBSTATE</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/TuanDzs" target="_blank">https://www.facebook.com/TuannDzz123</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/TuanDzs" target="_blank">https://www.facebook.com/TuanDzs</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">kenyrm2250@gmail.com</a></strong>
 </p>
