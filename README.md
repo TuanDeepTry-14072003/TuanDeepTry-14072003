@@ -48,7 +48,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 𝐓𝐡𝐨̂́𝐧𝐠 𝐊𝐞̂ 𝐆𝐢𝐭𝐇𝐮𝐛 🔥</h2>
+<h2 align="center">🔥 𝑻𝒉𝒐̂́𝒏𝒈 𝑲𝒆̂ 𝑮𝒊𝒕𝒉𝒖𝒃 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -61,7 +61,7 @@
 </div>
 
 <br>
-<h2 align="center">🌐 𝐌𝐚̣𝐧𝐠 𝐗𝐚̃ 𝐇𝐨̣̂𝐢 🌐</h2>
+<h2 align="center">🌐 𝑴𝒂̣𝒏𝒈 𝑿𝒂̃ 𝑯𝒐̣̂𝒊 🌐</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -87,7 +87,7 @@
 
 <br>
 
-<h2 align="center">📖 𝐂𝐨̂𝐧𝐠 𝐕𝐢𝐞̣̂𝐜 𝐇𝐢𝐞̣̂𝐧 𝐓𝐚̣𝐢 📖</h2>
+<h2 align="center">📖 𝑪𝒐̂𝒏𝒈 𝑽𝒊𝒆̣̂𝒄 𝑯𝒊𝒆̣̂𝒏 𝑻𝒂̣𝒊 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/4pign-QyACY" target="_blank">
@@ -108,7 +108,7 @@
 </a>
 
 <br>
-<h2 align="center">📑 𝐌𝐲 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬 𝐐𝐮𝐨𝐭𝐞 📑</h2>
+<h2 align="center">💌 𝑴𝒚 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆𝒔 𝑸𝒖𝒐𝒕𝒆𝒔 💌</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="tuandeeptry-official" />
