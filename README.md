@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- TuanDz -->
 <a href="#" target="_blank">
-  <img src="svg/Trungquandev.svg" width="1200" alt="Trungquandev-official" />
+  <img src="svg/TuanDz.svg" width="1200" alt="TuanDz-official" />
 </a>
 
 <h2 align="center">🛠 𝐂𝐨̂𝐧𝐠 𝐍𝐠𝐡𝐞̣̂ 𝐕𝐚̀ 𝐂𝐨̂𝐧𝐠 𝐂𝐮̣ 🛠</h2>
@@ -52,10 +52,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="TuanDz">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="TuanDz">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TuanDeepTry-14072003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -66,22 +66,22 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/TuannDzz123" target="blank">
-    <img width="90" height="90" src="images/logo-Trungquandev-transparent-bg-192x192.png" alt="Trungquandev-blog" />
+    <img width="90" height="90" src="images/logo-TuanDz-transparent-bg-192x192.png" alt="TuanDz-blog" />
   </a>
   <a href="https://facebook.com/TuannDzz123" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TuanDz-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCHR9A0Q8k7fXKwpjyXlJKbA" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TuanDz-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-minh-tu%E1%BA%A5n-1851ba249/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="TuanDz-linkedin" />
   </a>
-  <a href="https://instagram.com/Trungquandev_1407" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Trungquandev-instagram" />
+  <a href="https://instagram.com/tuandz_1407" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="TuanDz-instagram" />
   </a>
   <a href="mailto:kenyrm2250@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="TuanDz-email" />
   </a>
 </div>
 
@@ -104,13 +104,13 @@
   <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">kenyrm2250@gmail.com</a></strong>
 </p>
 <a href="https://www.facebook.com/TuannDzz123" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-Trungquandev-scaled.jpeg" width="1200" alt="Trungquandev-official" />
+  <img src="images/fair-mern-stack-advanced-banner-TuanDz-scaled.jpeg" width="1200" alt="TuanDz-official" />
 </a>
 
 <br>
 <h2 align="center">📑 𝐌𝐲 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬 𝐐𝐮𝐨𝐭𝐞 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/Trungquandev-quotes.svg" width="846" height="150" alt="tuandeeptry-official" />
+  <img src="svg/TuanDz-quotes.svg" width="846" height="150" alt="tuandeeptry-official" />
 </a>
 
