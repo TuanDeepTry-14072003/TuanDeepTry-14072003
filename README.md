@@ -65,10 +65,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/TuannDzz123" target="blank">
+  <a href="https://facebook.com/TuanDzs" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="TuanDz-blog" />
   </a>
-  <a href="https://facebook.com/TuannDzz123" target="blank">
+  <a href="https://facebook.com/TuanDzs" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TuanDz-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCHR9A0Q8k7fXKwpjyXlJKbA" target="blank">
@@ -99,12 +99,12 @@
 <p>
   <strong>🔗 Link tải công cụ lấy APPSTATE: <a href="https://github.com/c3cbot/c3c-fbstate" target="_blank">C3C-FBSTATE</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/TuannDzz123" target="_blank">https://www.facebook.com/TuannDzz123</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/TuanDzs" target="_blank">https://www.facebook.com/TuannDzz123</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">kenyrm2250@gmail.com</a></strong>
 </p>
 <a href="https://www.facebook.com/TuannDzz123" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-TuanDz-scaled.jpeg" width="1200" alt="TuanDz-official" />
+  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="TuanDz-official" />
 </a>
 
 <br>
