@@ -1,6 +1,6 @@
 <!-- TuanDz -->
 <a href="#" target="_blank">
-  <img src="svg/TuanDz.svg" width="1200" alt="TuanDz-official" />
+  <img src="svg/trungquandev.svg" width="1200" alt="TuanDz-official" />
 </a>
 
 <h2 align="center">🛠 𝐂𝐨̂𝐧𝐠 𝐍𝐠𝐡𝐞̣̂ 𝐕𝐚̀ 𝐂𝐨̂𝐧𝐠 𝐂𝐮̣ 🛠</h2>
