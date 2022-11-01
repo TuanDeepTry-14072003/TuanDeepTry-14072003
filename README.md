@@ -111,6 +111,6 @@
 <h2 align="center">📑 𝐌𝐲 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬 𝐐𝐮𝐨𝐭𝐞 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/TuanDz-quotes.svg" width="846" height="150" alt="tuandeeptry-official" />
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="tuandeeptry-official" />
 </a>
 
